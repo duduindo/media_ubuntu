@@ -17,10 +17,10 @@ Compile o programa em C, depois deixe na pasta de tua preferência no Ubuntu
     
 Help/Instrução:
     Para AUMENTAR use o comando + ou 'aumentar' (sem aspas doido!)
-		Para baixar use o comando - ou 'baixar' (sem aspas loko!) \nEntendeu? :) 
-		Pausar o player = ou 'pausar' (precisa avisar de novo?) 
-		Próxima faixa > ou 'proxima' 
-		Faixa anterior < ou 'anteior'
+    Para baixar use o comando - ou 'baixar' (sem aspas loko!) \nEntendeu? :) 
+    Pausar o player = ou 'pausar' (precisa avisar de novo?) 
+    Próxima faixa > ou 'proxima' 
+    Faixa anterior < ou 'anteior'
 		
 		
 Até mais!
