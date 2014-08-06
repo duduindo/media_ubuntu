@@ -11,11 +11,11 @@ No Ubuntu:
     sudo apt-get install xdotool
     sudo apt-get install openssh-server
     
-No Android, instale um dê tua preferência:
+No Android, instale um de sua preferência:
 
-    O meu é aplicativo ConnectBot
+    O meu o é aplicativo ConnectBot
     
-Compile o programa em C, depois deixe na pasta de tua preferência no Ubuntu
+Compile o programa em C, depois deixe na pasta de sua preferência no Ubuntu
 
 Help/Instrução:
 
